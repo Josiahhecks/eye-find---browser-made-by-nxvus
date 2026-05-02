@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eyefind Browser</string>
+    <string name="search_eyefind">Search Eyefind</string>
+    <string name="categories">Categories</string>
+    <string name="news_story">News Story of the Day</string>
+    <string name="website_minute">Website of the Minute</string>
+    <string name="read_full_article">Read full article</string>
+    <string name="settings">Settings</string>
+    <string name="tor_active">Tor Active</string>
+    <string name="tor_inactive">Tor Inactive</string>
+    <string name="new_identity">New Identity</string>
+    <string name="media_entertainment">MEDIA AND ENTERTAINMENT</string>
+    <string name="food_drink">FOOD AND DRINK</string>
+    <string name="money_services">MONEY AND SERVICES</string>
+    <string name="travel_transport">TRAVEL AND TRANSPORT</string>
+    <string name="fashion_health">FASHION AND HEALTH</string>
+    <string name="random">RANDOM</string>
+</resources>
